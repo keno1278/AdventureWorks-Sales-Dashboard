@@ -30,7 +30,7 @@ It showcases my ability to combine **data modeling, DAX, and visualization desig
 <summary>Click to view dashboard screenshots</summary>
 
 ### Executive Overview  
-<img src="screenshots/Page1_Exec.png" width="900"/>
+![Executive Overview](screenshots/Dashboard_Exec.png)
 
 ### Product Insights  
 <img src="screenshots/Page4_Product.png" width="900"/>
