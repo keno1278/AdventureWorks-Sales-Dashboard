@@ -26,27 +26,30 @@ It showcases my ability to combine **data modeling, DAX, and visualization desig
 
 ## 📊 Dashboard Previews
 
-Below are sample pages from the **AdventureWorks Executive Sales Dashboard** built in Power BI.
+<details>
+  <summary>Click to view dashboard screenshots</summary>
 
----
+  <h3>🧭 Executive Overview</h3>
+  <p align="center">
+    <img src="./screenshots/Page1_Exec.png" alt="Executive Overview" />
+  </p>
 
-### 🧭 Executive Overview
-![Executive Overview](screenshots/Dashboard_Exec.png)
+  <h3>🧩 Product Insights</h3>
+  <p align="center">
+    <img src="./screenshots/Page4_Product.png" alt="Product Insights" />
+  </p>
 
----
+  <h3>👥 Customer Detail</h3>
+  <p align="center">
+    <img src="./screenshots/Page2_Customer.png" alt="Customer Detail" />
+  </p>
 
-### 🧩 Product Insights
-![Product Insights](screenshots/Page4_Product.png)
+  <h3>🌍 Global Sales Map</h3>
+  <p align="center">
+    <img src="./screenshots/Page3_Map.png" alt="Global Sales Map" />
+  </p>
 
----
-
-### 👥 Customer Detail
-![Customer Detail](screenshots/Page2_Customer.png)
-
----
-
-### 🌍 Global Sales Map
-![Global Sales Map](screenshots/Page3_Map.png)
+</details>
 
 ### **Page 1 – Executive Overview**  
 - High-level KPIs: Revenue ($24.9 M), Profit ($10.5 M), Orders (25.2 K), Return Rate (2.2 %)  
