@@ -24,15 +24,22 @@ It showcases my ability to combine **data modeling, DAX, and visualization desig
 ## 📊 Dashboard Pages 
 ---
 
-## 🖼️ Dashboard Previews
+## 📊 Dashboard Previews
 
 <details>
-<summary>📸 Click to view dashboard screenshots</summary>
+<summary>🖼️ Click to view dashboard screenshots</summary>
 
-![Executive Overview](screenshots/Page1_Exec.png)
-![Customer Details](screenshots/Page2_Customer.png)
-![Global Sales Map](screenshots/Page3_Map.png)
-![Product Insights](screenshots/Page4_Product.png)
+### Executive Overview
+![Executive Overview](screenshots/Page1_Exec.png?raw=1)
+
+### Customer Detail
+![Customer Detail](screenshots/Page2_Customer.png?raw=1)
+
+### Regional Sales Map
+![Regional Sales Map](screenshots/Page3_Map.png?raw=1)
+
+### Product Insights
+![Product Insights](screenshots/Page4_Product.png?raw=1)
 
 </details>
 
