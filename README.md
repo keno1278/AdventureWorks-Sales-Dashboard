@@ -11,6 +11,13 @@ It showcases my ability to combine **data modeling, DAX, and visualization desig
 
 ---
 
+## 🛠 Tools & Techniques Used
+- **Power BI Desktop** – data modeling, DAX, and visualization
+- **DAX** – calculated measures for revenue, profit, and What-If parameters
+- **Excel / CSV** – data source formatting and cleaning
+- **Data Modeling** – relationships between Sales, Products, and Geography tables
+- **Design Thinking** – business storytelling and executive-friendly visuals
+
 ## 🎯 Objectives  
 
 - Track monthly revenue, profit, and return rates.  
@@ -20,6 +27,12 @@ It showcases my ability to combine **data modeling, DAX, and visualization desig
 - Simulate **pricing impacts** using What-If parameters.  
 
 ---
+## 📈 Key Insights
+- 🚲 **Bikes** generated the highest revenue (~$24.9M) with strong profit margins.
+- 🌍 **Europe** outperformed other regions in both order volume and customer retention.
+- 👥 **High-income professionals** had the highest average revenue per customer.
+- 🧾 **Return rates** were lowest for accessories (≈1.5%), indicating quality satisfaction.
+- 💡 **What-If analysis** showed that a 10% price increase yields a ~6% profit gain.
 
 ## 📊 Dashboard Pages 
 ---
@@ -150,6 +163,18 @@ AdventureWorks-Sales-Dashboard/
 └── .gitignore
 
 </details>
+
+## 🧭 How to Open the Dashboard
+
+To explore this Power BI report:
+
+1. Download the file: [`AdventureWorks-Sales.pbix`](./AdventureWorks-Sales.pbix)
+2. Open it in **Microsoft Power BI Desktop**
+3. Navigate between pages using the bottom tabs:
+   - **Executive Overview**
+   - **Customer Details**
+   - **Global Sales Map**
+   - **Product Insights**
 
 🌿 Key Takeaway
 
